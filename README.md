@@ -2,7 +2,9 @@
 
 Proyecto integrador uno.
 
-Soy agus reportandose.
-Te meto un cambio en el readme -nico
-javier
-Pichu
+Integrado por: 
+Javier Fernández
+Nicolás Trindade
+Agustín Novelli
+Juan de Artega
+Pilar Ciganda
